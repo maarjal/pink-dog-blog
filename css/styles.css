@@ -1,0 +1,18 @@
+body {
+   background-color: hotpink;
+   text-align: center;
+ }
+
+h1{
+   text-decoration: overline;
+ }
+
+h2{
+   text-decoration: underline;
+}
+.cross { font-size: 50px;
+   text-decoration: line-through;
+  }
+p { font-size: 150px;
+    font-weight: bolder;
+    }
