@@ -16,3 +16,11 @@ h2{
 p { font-size: 150px;
     font-weight: bolder;
     }
+ol {
+  list-style-position:inside;
+}
+
+
+/*ol, ol li {
+  float: center;
+}*/
